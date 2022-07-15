@@ -58,6 +58,7 @@ With my acquired knowledge, I have developed some data science projects that I p
 ## 📈   Some of my stats are:
 
 | <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AAZG&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top langs" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AAZG&show_icons=true&theme=radical&locale=en" alt="My stats" /></a> |
+| ------------- | ------------- |
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AAZG&theme=radical" alt="AAZG" /></p>
 
