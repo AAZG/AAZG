@@ -1,5 +1,5 @@
-<h1 align="center">Hi! 👋🏻, I'm Alfonso Andrés Zapata Guzmán 👨🏻‍🔬🧑🏻‍💻🧬</h1>
-<h3 align="center">Data science and machine learning lover ✨🎮, Mechanical engineer 🧬 the true eternal student 💚.</h3>
+<h1 align="center">Hi! 👋🏻, I'm Alfonso Andrés Zapata Guzmán 👨🏻‍🔬🧑🏻‍💻</h1>
+<h3 align="center">Data science and machine learning lover ✨📊, Mechanical engineer 🔧👷🏽‍♂️, the true eternal student 📖💚.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AAZG&label=Profile%20views&color=0e75b6&style=flat" alt="AAZG" /> </p>
