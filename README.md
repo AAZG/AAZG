@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋🏻, I'm Alfonso Andrés Zapata Guzmán 👨🏻‍🔬🧑🏻‍💻</h1>
-<h3 align="center">Data science and machine learning lover ✨📊, Mechanical engineer 🔧👷🏽‍♂️, the true eternal student 📖💚.</h3>
+<h3 align="center">Data Scientist Jr 🧮 | Data Analyst 📈 | Data visualization 📊 | Pythonist ❤️ | Machine learning | Regression.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AAZG&label=Profile%20views&color=0e75b6&style=flat" alt="AAZG" /> </p>
@@ -9,11 +9,15 @@
 <p align="left"> <a href="https://twitter.com/AlfonsoZapata21" target="blank"><img src="https://img.shields.io/twitter/follow/AAZG?logo=twitter&style=for-the-badge" alt="AAZG" /></a> </p>
 
 
-I finished my mechanical engineering degree, I am currently developing my skills as a developer with Python, data science and machine learning, I have knowledge of Regex, bash, zsh, linux, Git, GitHub, Gitlab, Django, jupyterlabs, nvim, Plotly, etc.
+👨‍🎓 I am a Advanced Technician University (TSU) in industrial mechanics, who currently works as a data scientist. I know I can help your business succeed in the online world with data science and machine learning.
 
-I love to solve code challenges in Codewars and HackerRank, I can spend hours searching and reading code on google to solve them, I like to read the documentation of the methods that I will use, to see what I can use of those extra functions that are there , I think that technology greatly facilitates the way to create new and useful things for everyone. But still I don't think all problems could be solved with code, unless the problem is reframed.
+💻 Passionate about Python coding, data science, machine learning, and deep learning, I love solving problems and finding the best answer through teamwork.
 
-With my acquired knowledge, I have developed some data science projects that I personally and self-taught.
+📚 I am self-taught, proactive, disciplined and an innate leader. I really enjoy constantly learning, working with people, and solving problems with python code.
+
+📈 Little by little I have gained experience building and developing machine learning models. In the last two years, I've learned Python, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sklearn, Git, SQL, RegEx. I also strengthened my college knowledge of statistics, linear algebra, and calculus, all of which focused on data science and machine learning.
+
+🧠 Soft skills: Problem solving, Innovative vision, Teamwork, Assertive communication, Constant desire to learn.
 
 
 # 💻 Some technologies I use:
@@ -49,7 +53,7 @@ With my acquired knowledge, I have developed some data science projects that I p
 
 - Portfolio and course exercises: [GitHub](https://github.com/AAZG?tab=repositories)
 - Sharing my photos on [instagram](https://www.instagram.com/alfonsoandreszapataguzman/)
-- Check out my work on [LinkedIn](https://www.linkedin.com/in/alfonso-zapata-550bb112b/)
+- Check out my work on [LinkedIn](https://www.linkedin.com/in/aazg)
 - Send me an email, let's talk: [aazg24@gmail.com](mailto:aazg24@gmail.com)
 - Send me a message through telegram, let's talk: [@Aazg1](https://t.me/Aazg1)
 
