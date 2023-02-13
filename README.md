@@ -1,4 +1,4 @@
-<h1 align="center">Hi! 👋🏻, I'm Alfonso Andrés Zapata Guzmán 👨🏻‍🔬🧑🏻‍💻</h1>
+<h1 align="center">Hi! 👋🏻, I'm Alfonso Andrés Zapata Guzmán 🧑🏻‍💻</h1>
 <h3 align="center">Data Scientist 📊 | Data Analyst 📈 | Python Developer 🐍 | Machine learning 🤖.</h3>
 
 
