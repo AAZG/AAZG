@@ -9,15 +9,15 @@
 <p align="left"> <a href="https://twitter.com/AlfonsoZapata21" target="blank"><img src="https://img.shields.io/twitter/follow/AAZG?logo=twitter&style=for-the-badge" alt="AAZG" /></a> </p>
 
 
-👨‍🎓 I am a Advanced Technician University (TSU) in industrial mechanics, who currently works as a data scientist. I know I can help your business succeed in the online world with data science and machine learning.
+👨🏽‍🎓 I am a Advanced Technician University (TSU) in Industrial Mechanics turned Data Scientist and with a tireless passion for technology and programming. With my focus on data science and machine learning, I am confident that I can help take your business to a new level in the technology sector.
 
-💻 Passionate about Python coding, data science, machine learning, and deep learning, I love solving problems and finding the best answer through teamwork.
+💻 My ability to solve problems and my innovative vision combine to create creative and effective solutions. I am an autonomous learner, proactive, disciplined and a born leader who enjoys constantly learning, working in a team and solving problems by programming in Python.
 
-📚 I am self-taught, proactive, disciplined and an innate leader. I really enjoy constantly learning, working with people, and solving problems with python code.
+📚 Over the past two years, I have gained valuable experience building and developing machine learning models. I have learned and honed my skills in Python, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sklearn, Git, SQL, and RegEx. In addition, I have strengthened my university knowledge in statistics, linear algebra and calculus to focus on data science and machine learning.
 
-📈 Little by little I have gained experience building and developing machine learning models. In the last two years, I've learned Python, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sklearn, Git, SQL, RegEx. I also strengthened my college knowledge of statistics, linear algebra, and calculus, all of which focused on data science and machine learning.
+🧠 My soft skills, including effective problem solving, effective teamwork, assertive communication, and a constant desire to learn, allow me to collaborate effectively with others and create impactful solutions.
 
-🧠 Soft skills: Problem solving, Innovative vision, Teamwork, Assertive communication, Constant desire to learn.
+📈 As a data scientist, I seek to take advantage of my experience and skills to turn data into valuable and useful information for companies in the technology sector. With a special interest in delving into the field of deep learning and NLP, I am looking forward to continuing on my path and meeting new challenges and achievements in the future.
 
 
 # 💻 Some technologies I use:
@@ -52,8 +52,8 @@
 ## 🔎 Where can you find me
 
 - Portfolio and course exercises: [GitHub](https://github.com/AAZG?tab=repositories)
-- Sharing my photos on [instagram](https://www.instagram.com/alfonsoandreszapataguzman/)
-- Check out my work on [LinkedIn](https://www.linkedin.com/in/aazg)
+- Follow me on Instagram! [instagram](https://www.instagram.com/alfonsoandreszapataguzman/)
+- Follow me or connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/aazg)
 - Send me an email, let's talk: [aazg24@gmail.com](mailto:aazg24@gmail.com)
 - Send me a message through telegram, let's talk: [@Aazg1](https://t.me/Aazg1)
 
