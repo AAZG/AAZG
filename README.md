@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋🏻, I'm Alfonso Andrés Zapata Guzmán 👨🏻‍🔬🧑🏻‍💻</h1>
-<h3 align="center">Data Scientist Jr 🧮 | Data Analyst 📈 | Data visualization 📊 | Pythonist ❤️ | Machine learning | Regression.</h3>
+<h3 align="center">Data Scientist 📊 | Data Analyst 📈 | Python Developer 🐍 | Machine learning 🤖.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AAZG&label=Profile%20views&color=0e75b6&style=flat" alt="AAZG" /> </p>
