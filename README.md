@@ -21,7 +21,7 @@
 
 
 
-![](carrusel (3).gif)
+![](/carrusel.gif)
 
 
 # 💻 Some technologies I use:
