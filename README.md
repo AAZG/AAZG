@@ -20,6 +20,12 @@
 📈 As a data scientist, I seek to take advantage of my experience and skills to turn data into valuable and useful information for companies in the technology sector. With a special interest in delving into the field of deep learning and NLP, I am looking forward to continuing on my path and meeting new challenges and achievements in the future.
 
 
+
+https://user-images.githubusercontent.com/101611551/218622302-2b36c422-ed5e-4b0a-826c-44cfb063cd15.mp4
+
+
+
+
 # 💻 Some technologies I use:
 
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
