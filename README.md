@@ -21,9 +21,7 @@
 
 
 
-https://user-images.githubusercontent.com/101611551/218622302-2b36c422-ed5e-4b0a-826c-44cfb063cd15.mp4
-
-
+![](carrusel (3).gif)
 
 
 # 💻 Some technologies I use:
