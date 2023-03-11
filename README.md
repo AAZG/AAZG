@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Alfonso Andrés Zapata Guzmán 🧑🏻‍💻</h1>
-<h3 align="center">Data Scientist 📊 | Data Analyst 📈 | Python Developer 🐍 | Machine learning 🤖</h3>
+<h3 align="center">Data Scientist 📊 | Data Analyst 📈 | Python Developer 🐍 </h3>
 
 
 ![](https://img.shields.io/github/followers/AAZG?label=follow&logo=github&style=flat-square)
