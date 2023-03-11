@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Alfonso Andrés Zapata Guzmán 🧑🏻‍💻</h1>
+<h1 align="center">👋 Hi there! I'm Alfonso Andrés Zapata Guzmán 👨🏽‍💻</h1>
 <h3 align="center">Data Scientist 📊 | Data Analyst 📈 | Python Developer 🐍 </h3>
 
 
@@ -21,9 +21,9 @@
 📈 As a data scientist, I seek to take advantage of my experience and skills to turn data into valuable and useful information for companies in the technology sector. With a special interest in delving into the field of deep learning and NLP, I am looking forward to continuing on my path and meeting new challenges and achievements in the future.
 
 
-## 💻 Some technologies I use:
+## ⚒️ Some technologies I use:
 <div style="text-align: center;">
-  <img src="Animation.gif" alt="My Skills" title="My Skills">
+  <img src="Carruselffmepg.gif" alt="My Skills" title="My Skills">
 </div>
 
 
@@ -37,7 +37,7 @@
 - Send me a message through telegram, let's talk: [@Aazg1](https://t.me/Aazg1)
 
 
-## ⚒️ My Kaggle and Deepnote projects:
+## 💼 My Kaggle and Deepnote projects:
 
 - [Kaggle ](https://www.kaggle.com/alfonsozapata)
 - [Deepnote](https://deepnote.com/@aazg)
