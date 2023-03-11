@@ -23,8 +23,9 @@
 
 ## 💻 Some technologies I use:
 <div style="text-align: center;">
-  <img src="https://user-images.githubusercontent.com/101611551/218733330-499befcf-6a66-4bc4-b760-0d61286aff03.gif" alt="My Skills" title="My Skills">
+  <img src="Animation.gif" alt="My Skills" title="My Skills">
 </div>
+
 
 ## 🔎 Where can you find me
 
