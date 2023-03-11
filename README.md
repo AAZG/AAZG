@@ -8,7 +8,7 @@
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;">🚀🌕 About Me</h2>
 
-<img align='right' src="https://github.com/BhavyaCodes/BhavyaCodes/blob/master/.github/cat.gif" height="" width="300" alt="coding cat" title="Writing code">
+<img align='right' src="cat.gif" height="" width="300" alt="coding cat" title="Writing code">
 
 👨🏽‍🎓 I am a Advanced Technician University (TSU) in Industrial Mechanics turned Data Scientist and with a tireless passion for technology and programming. With my focus on data science and machine learning, I am confident that I can help take your business to a new level in the technology sector.
 
