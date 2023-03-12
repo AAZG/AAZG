@@ -12,20 +12,6 @@
 
 
 
-<a href="https://www.linkedin.com/in/aazg/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue" alt="My Linkedin Profile" title="My Linkedin Profile"></a>
-
-
-## 🔎 Where can you find me
-
-
-- <a href="https://www.instagram.com/alfonsoandreszapataguzman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Follow me on Instagram!" title="Follow me on Instagram!"></a>
-- Follow me on Twitter! [twitter](https://twitter.com/AlfonsoZapata21)
-- <a href="https://www.linkedin.com/in/aazg/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue" alt="Follow me or connect with me on LinkedIn!" title="Follow me or connect with me on LinkedIn!"></a>
-- Send me an email, let's talk: [aazg24@gmail.com](mailto:aazg24@gmail.com)
-- Send me a message through telegram, let's talk: [@Aazg1](https://t.me/Aazg1)
-
-
-
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;">🚀🌕 About Me</h2>
 
 <img align='right' src="cat.gif" height="" width="300" alt="coding cat" title="Writing code">
@@ -48,16 +34,11 @@
 
 
 ## 🔎 Where can you find me
-
-- Follow me on Instagram! [instagram](https://www.instagram.com/alfonsoandreszapataguzman/)
-- Follow me on Twitter! [twitter](https://twitter.com/AlfonsoZapata21)
-- Follow me or connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/aazg)
-- Send me an email, let's talk: [aazg24@gmail.com](mailto:aazg24@gmail.com)
-- Send me a message through telegram, let's talk: [@Aazg1](https://t.me/Aazg1)
-
-
-## 📚 Notion of board courses taken and their notes:
-- [Notion](https://www.notion.so/19120aeff7474ab8a5bf8c13a9375004?v=bbb665f61ed8419bbc322790d4416377)
+<a href="https://www.instagram.com/alfonsoandreszapataguzman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Follow me on Instagram!" title="Follow me on Instagram!"></a>
+<a href="https://twitter.com/AlfonsoZapata21"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Follow me on Twitter!" title="Follow me on Twitter!"></a>
+<a href="https://www.linkedin.com/in/aazg/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue" alt="Follow me or connect with me on LinkedIn!" title="Follow me or connect with me on LinkedIn!"></a>
+<a href="mailto:aazg24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Send me an email, let's talk!" title="Send me an email, let's talk!"></a>
+<a href="https://t.me/Aazg1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Send me a message through telegram, let's talk!" title="Send me a message through telegram, let's talk!"></a>
 
 
 ## Anything else
