@@ -41,7 +41,7 @@
 <a href="https://t.me/Aazg1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=plastic&logo=telegram&logoColor=white" alt="Send me a message through telegram, let's talk!" title="Send me a message through telegram, let's talk!"></a>
 
 
-## Anything else
+## 🏆 Anything else
 
 - 🌱 Now I'm learning Deep Learning, AWS and English 😅.
 - 💬 If you have any questions or think you can help me improve, write me
