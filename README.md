@@ -5,6 +5,26 @@
 ![](https://img.shields.io/github/followers/AAZG?label=follow&logo=github&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/AAZG?label=%E2%AD%90GitHub%20stars&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=AAZG&label=Profile%20views&color=0e75b6&style=flat)
+<a href="https://www.datascienceportfol.io/aazg"><img src="https://img.shields.io/badge/Portfolio-AAZG-informational" alt="My Portfolio" title="My Portfolio"></a>
+<a href="https://www.linkedin.com/in/aazg/"><img src="https://img.shields.io/badge/-Alfonso_Zapata-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="My Linkedin Profile" title="My Linkedin Profile"></a>
+<a href="https://deepnote.com/@aazg"><img src="https://img.shields.io/badge/Profile_Deepnote-3793EF?style=flat&logo=Deepnote&logoColor=white" alt="My Deepnote Profile" title="My Deepnote Profile"></a>
+<a href="https://www.kaggle.com/alfonsozapata"><img src="https://img.shields.io/badge/Profile_Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" alt="My Kaggle Profile" title="My Kaggle Profile"></a>
+
+
+
+<a href="https://www.linkedin.com/in/aazg/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue" alt="My Linkedin Profile" title="My Linkedin Profile"></a>
+
+
+## 🔎 Where can you find me
+
+
+- <a href="https://www.instagram.com/alfonsoandreszapataguzman/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Follow me on Instagram!" title="Follow me on Instagram!"></a>
+- Follow me on Twitter! [twitter](https://twitter.com/AlfonsoZapata21)
+- <a href="https://www.linkedin.com/in/aazg/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue" alt="Follow me or connect with me on LinkedIn!" title="Follow me or connect with me on LinkedIn!"></a>
+- Send me an email, let's talk: [aazg24@gmail.com](mailto:aazg24@gmail.com)
+- Send me a message through telegram, let's talk: [@Aazg1](https://t.me/Aazg1)
+
+
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;">🚀🌕 About Me</h2>
 
@@ -29,18 +49,12 @@
 
 ## 🔎 Where can you find me
 
-- Portfolio and course exercises: [GitHub](https://github.com/AAZG?tab=repositories)
 - Follow me on Instagram! [instagram](https://www.instagram.com/alfonsoandreszapataguzman/)
 - Follow me on Twitter! [twitter](https://twitter.com/AlfonsoZapata21)
 - Follow me or connect with me on LinkedIn! [LinkedIn](https://www.linkedin.com/in/aazg)
 - Send me an email, let's talk: [aazg24@gmail.com](mailto:aazg24@gmail.com)
 - Send me a message through telegram, let's talk: [@Aazg1](https://t.me/Aazg1)
 
-
-## 💼 My Kaggle and Deepnote projects:
-
-- [Kaggle ](https://www.kaggle.com/alfonsozapata)
-- [Deepnote](https://deepnote.com/@aazg)
 
 ## 📚 Notion of board courses taken and their notes:
 - [Notion](https://www.notion.so/19120aeff7474ab8a5bf8c13a9375004?v=bbb665f61ed8419bbc322790d4416377)
