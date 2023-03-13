@@ -48,8 +48,8 @@
 - 👀 I am interested in any backend and data science technology.
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aazg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" title="Buymeacoffee" alt="Buymeacoffee"  /></a></p><br><br>
+<h2 align="left">🫱🏻‍🫲🏽 Support:</h2>
+<p><a href="https://www.buymeacoffee.com/aazg"> <img align="left" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=plastic&logo=buy-me-a-coffee&logoColor=black" title="Buymeacoffee" alt="Buymeacoffee"  /></a></p><br>
 
 
 
