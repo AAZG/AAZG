@@ -16,15 +16,11 @@
 
 <img align='right' src="cat.gif" height="" width="300" alt="coding cat" title="Writing code">
 
-👨🏽‍🎓 I am a Advanced Technician University (TSU) in Industrial Mechanics turned Data Scientist and with a tireless passion for technology and programming. With my focus on data science and machine learning, I am confident that I can help take your business to a new level in the technology sector.
+💻 I seek to apply my skills and experience to analyze and transform large data sets into useful and valuable information for companies in the technology sector. I am specialized in statistical analysis, data cleaning, machine learning and Python programming.
 
-💻 My ability to solve problems and my innovative vision combine to create creative and effective solutions. I am an autonomous learner, proactive, disciplined and a born leader who enjoys constantly learning, working in a team and solving problems by programming in Python.
+📈 I am interested in being part of challenging and dynamic projects that allow me to grow professionally.
 
-📚 Over the past two years, I have gained valuable experience building and developing machine learning models. I have learned and honed my skills in Python, Numpy, Pandas, Matplotlib, Seaborn, Plotly, Sklearn, Git, SQL, and RegEx. In addition, I have strengthened my university knowledge in statistics, linear algebra and calculus to focus on data science and machine learning.
-
-🧠 My soft skills, including effective problem solving, effective teamwork, assertive communication, and a constant desire to learn, allow me to collaborate effectively with others and create impactful solutions.
-
-📈 As a data scientist, I seek to take advantage of my experience and skills to turn data into valuable and useful information for companies in the technology sector. With a special interest in delving into the field of deep learning and NLP, I am looking forward to continuing on my path and meeting new challenges and achievements in the future.
+🧠 I have skills such as critical thinking and effective communication that allow me to solve problems in a practical way, have an innovative vision and work efficiently as a team. In addition, an attitude of constant learning is maintained.
 
 
 ## ⚒️ Some technologies I use:
