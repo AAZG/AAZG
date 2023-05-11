@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Alfonso Andrés Zapata Guzmán 👨🏽‍💻</h1>
-<h3 align="center">Data Scientist 📊 | Python Developer 🐍 | ML/AI 🤖</h3>
+<h3 align="center">📊 Data Scientist | 🐍 Pythonist | ML / IA 🤖 | ✍🏽 Writer | 💪🏽 Calisthenic | 🌳🐕 Lover nature and animals</h3>
 
 
 ![](https://img.shields.io/github/followers/AAZG?label=follow&logo=github&style=flat-square)
@@ -16,11 +16,7 @@
 
 <img align='right' src="cat.gif" height="" width="300" alt="coding cat" title="Writing code">
 
-💻 I seek to apply my skills and experience to analyze and transform large data sets into useful and valuable information for companies in the technology sector. I am specialized in statistical analysis, data cleaning, machine learning and Python programming.
-
-📈 I am interested in being part of challenging and dynamic projects that allow me to grow professionally.
-
-🧠 I have skills such as critical thinking and effective communication that allow me to solve problems in a practical way, have an innovative vision and work efficiently as a team. In addition, an attitude of constant learning is maintained.
+I seek to apply my skills and experience in challenging projects to analyze large data sets and transform them into useful and valuable information for companies in the technology sector. I am specialized in statistical analysis, data cleaning, machine learning and Python programming. I am interested in being part of challenging and dynamic projects that allow me to grow professionally.
 
 
 ## ⚒️ Some technologies I use:
