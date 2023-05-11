@@ -16,7 +16,11 @@
 
 <img align='right' src="cat.gif" height="" width="300" alt="coding cat" title="Writing code">
 
-I seek to apply my skills and experience in challenging projects to analyze large data sets and transform them into useful and valuable information for companies in the technology sector. I am specialized in statistical analysis, data cleaning, machine learning and Python programming. I am interested in being part of challenging and dynamic projects that allow me to grow professionally.
+I seek to apply my skills and experience in challenging projects to analyze large data sets and transform them into useful and valuable information for companies in the technology sector. 
+
+I am specialized in statistical analysis, data cleaning, machine learning and Python programming. 
+
+I am interested in being part of challenging and dynamic projects that allow me to grow professionally.
 
 
 ## ⚒️ Some technologies I use:
