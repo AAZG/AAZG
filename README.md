@@ -16,11 +16,7 @@
 
 <img align='right' src="cat.gif" height="" width="300" alt="coding cat" title="Writing code">
 
-I seek to apply my skills and experience in challenging projects to analyze large data sets and transform them into useful and valuable information for companies in the technology sector. 
-
-I am specialized in statistical analysis, data cleaning, machine learning and Python programming. 
-
-I am interested in being part of challenging and dynamic projects that allow me to grow professionally.
+Data scientist with experience in applying data exploration and analysis techniques using the Python language, with the goal of obtaining actionable insights and practical solutions to business problems. Able to use Sklearn to design predictive models and machine learning algorithms to optimize data-driven decision-making, taking into account data visualization principles and effective communication strategies. Committed to transforming data into valuable information and contributing to the development of intelligent solutions that drive growth and business success.
 
 
 ## ⚒️ Some technologies I use:
