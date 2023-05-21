@@ -16,11 +16,13 @@
 
 <img align='right' src="cat.gif" height="" width="300" alt="coding cat" title="Writing code">
 
-Data scientist with experience in data exploration and analysis with Python, able to use Sklearn to design predictive models and machine learning algorithms to optimize data-driven decision-making and derive practical solutions to business problems. 
+Data scientist with experience exploring and analyzing data with Python, able to use scikit-learn to design predictive models and machine learning algorithms to optimize data-driven decision-making and derive practical solutions to business problems. 
 
 Interested in scalable projects that allow participation in the entire data science development pipeline. 
 
-Committed to transforming data into valuable information and contributing to the development of intelligent solutions that drive growth and business success.
+Committed to transforming data into valuable information that drives business growth and success. 
+
+With contributions to the community with a post on Medium and LinkedIn.
 
 
 ## ⚒️ Some technologies I use:
